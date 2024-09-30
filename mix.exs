@@ -2,7 +2,7 @@ defmodule DockerEngineAPI.Mixfile do
   use Mix.Project
 
   @app :ex_docker_engine_api
-  @version "1.43.1"
+  @version "1.43.2"
   @source_url "https://github.com/jarlah/docker-engine-api-elixir"
 
   def project do
